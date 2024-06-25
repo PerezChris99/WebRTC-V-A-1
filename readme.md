@@ -57,7 +57,7 @@ Installation
 
 1.  Clone the repository:
 
-git clone https://github.com/yourusername/webrtc-streaming-project.git  cd webrtc-streaming-project   `
+git clone https://github.com/PerezChris99/WebRTC-V-A-1  cd webrtc-streaming-project   `
 
 1.  Install dependencies:
     
